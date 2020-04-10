@@ -1,0 +1,22 @@
+[
+  {
+    "id": 501,
+    "name": "Khali Zhang",
+    "location": "Shanghai",
+    "office": "C-103",
+    "phone": {
+      "cell": "650-353-1239",
+      "office": "650-353-1239"
+    } 
+  },
+  {
+    "id": 502,
+    "name": "Leah Liu",
+    "location": "Shanghai",
+    "office": "C-103",
+    "phone": {
+      "cell": "650-353-1239",
+      "office": "650-353-1239"
+    } 
+  }
+]
